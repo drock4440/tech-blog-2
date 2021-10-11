@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drock4440/tech-blog.git"
+    "url": "git+https://github.com/drock4440/tech-blog-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drock4440/tech-blog/issues"
+    "url": "https://github.com/drock4440/tech-blog-2/issues"
   },
-  "homepage": "https://github.com/drock4440/tech-blog#readme",
+  "homepage": "https://github.com/drock4440/tech-blog-2#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
