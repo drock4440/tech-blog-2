@@ -13,7 +13,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-(screen.png)
+![Screenshot](screen.png)
 
 ## Installation
 💾 Clone this repo. Run npm i. Create your own database in the CLI or MySql Workbench. Run npm start and view it on the local host.
